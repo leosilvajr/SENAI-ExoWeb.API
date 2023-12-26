@@ -8564,11 +8564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leonardo\\Desktop\\SENAI\\14 - Desenvolvimento de APIs - QO_FULLST_LOJ_222T24\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Git\\SENAI-ExoWeb.API\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\Leonardo\\Desktop\\SENAI\\14 - Desenvolvimento de APIs - QO_FULLST_LOJ_222T24\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Git\\SENAI-ExoWeb.API\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leonardo\\Desktop\\SENAI\\14 - Desenvolvimento de APIs - QO_FULLST_LOJ_222T24\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Git\\SENAI-ExoWeb.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

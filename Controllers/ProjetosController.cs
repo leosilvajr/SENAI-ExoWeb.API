@@ -1,4 +1,5 @@
-﻿using Exo.WebApi.Models;
+﻿#pragma warning disable 1591
+using Exo.WebApi.Models;
 using Exo.WebApi.Repositories;
 using Microsoft.AspNetCore.Mvc;
 

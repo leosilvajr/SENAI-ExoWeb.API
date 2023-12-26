@@ -1,4 +1,5 @@
-﻿namespace Exo.WebApi.Models
+﻿#pragma warning disable 1591
+namespace Exo.WebApi.Models
 {
     public class Usuario
     {

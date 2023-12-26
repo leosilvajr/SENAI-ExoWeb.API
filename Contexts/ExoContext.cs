@@ -1,3 +1,4 @@
+#pragma warning disable 1591
 using Exo.WebApi.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Data.SqlClient;

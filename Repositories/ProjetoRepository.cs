@@ -1,4 +1,5 @@
-﻿using Exo.WebApi.Contexts;
+﻿#pragma warning disable 1591
+using Exo.WebApi.Contexts;
 using Exo.WebApi.Models;
 
 namespace Exo.WebApi.Repositories
